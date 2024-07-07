@@ -1,0 +1,14 @@
+Name	File	u_star	B_s	A	La_t	a	L_w
+Neutral Swell	dsu_oce256_wu00L02.csv	6.10E-03	0.00E+00	0.00E+00	0.2	2	120
+Neutral Wind-Wave Eq.	dsu_oce256_wu00L03.csv	6.10E-03	0.00E+00	0.00E+00	0.3	0.8	60
+Neutral Weak Waves	dsu_oce256_wu00L10.csv	7.00E-03	0.00E+00	0.00E+00	1.03	0.25	60
+Pure Wind Stress	dsu_oce256_wu00Lin.csv	1.00E-02	0.00E+00	0.00E+00	9.99E+99	0	0
+Weak Conv + Waves	dsu_oce256_wu00L04.csv	6.10E-03	5.20E-09	3.46E-02	0.4	0.6	60
+Weak Conv + Wind-Wave Eq.	dsu_oce256_wu01L03.csv	7.00E-03	2.24E-07	9.17E-01	0.3	0.85	60
+Weak Conv + Waveless	dsu_oce256_wu01Lin.csv	7.00E-03	2.24E-07	9.44E-01	9.99E+99	0	0
+Weak Conv+ Weak Waves	dsu_oce256_wu01L10.csv	7.00E-03	2.24E-07	9.56E-01	1.03	0.25	60
+Joint PDF Peak	dsu_oce256_wu02L04.csv	7.00E-03	4.16E-07	1.78E+00	0.44	0.58	60
+Weak Conv + very Weak Waves	dsu_oce256_wu03L20.csv	7.00E-03	5.54E-07	2.50E+00	2	0.13	60
+Strong Conv + weak Waves	dsu_oce256_wu10L09.csv	4.00E-03	1.04E-06	2.29E+01	0.9	0.22	60
+Strong Conv + Wind-Wave Eq	dsu_oce256_wu20L03.csv	4.00E-03	1.04E-06	2.39E+01	0.3	0.65	60
+Pure Convection	dsu_oce256_wuinLna.csv	0.00E+00	1.63E-06	9.99E+99	9.99E+99	0	0
